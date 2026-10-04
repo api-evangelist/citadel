@@ -49,7 +49,7 @@ tags:
 - Defense
 - Counter-UAS
 - Drones
-- Machine-Learning
+- Machine Learning
 - Security
 - Hardware
 tags_raw:
@@ -60,6 +60,7 @@ tags_raw:
 - Machine Learning
 - Security
 - Hardware
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
