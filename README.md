@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Citadel is a company surfaced as a portfolio company of lightspeed-venture-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: lightspeed-venture-partners
+Citadel (also branded Citadel Defense / Drone Citadel) is a counter-unmanned-aircraft-system (C-UAS) company founded in 2016 that built an automated, modular drone-defense solution using proprietary machine-learning algorithms to detect, classify, and defeat unauthorized drones. It raised a Lightspeed Venture Partners Series A in 2017 and was subsequently acquired by BlueHalo. The company operates no public developer portal, API, SDK, or documentation surface, and its standalone domains (citadeldefense.com, dronecitadel.com) are now parked or no longer resolve.
+
+**Areas:** Company · Defense · Counter-UAS · Drones · Machine Learning · Security · Hardware
+
+## Citadel on APIs.io (historical record)
+
+Everything profiled for Citadel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/citadel/](https://apis.io/providers/citadel/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Citadel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/citadel/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
